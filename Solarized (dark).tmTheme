@@ -115,9 +115,9 @@
 
     <dict>
       <key>name</key>
-      <string>Require keyword</string>
+      <string>Require/import keyword</string>
       <key>scope</key>
-      <string>meta.require keyword.other</string>
+      <string>meta.require keyword.other, keyword.other.import</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
