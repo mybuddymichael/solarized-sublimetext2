@@ -9,6 +9,12 @@ highlighting as possible, but there are instances where consistency with
 the rest of the colorscheme is chosen over consistency with Ethan's
 choices.
 
+**To install:**
+- Run `git clone git://github.com/mybuddymichael/solarized-sublimetext2.git`.
+- `cd solarized-sublimetext2`
+- Copy the .tmTheme files into your Sublime [data folder][].
+
 
 [Solarized]: http://ethanschoonover.com/solarized
 [textmate-solarized]: https://github.com/deplorableword/textmate-solarized
+[data folder]: http://www.sublimetext.com/docs/2/revert.html
