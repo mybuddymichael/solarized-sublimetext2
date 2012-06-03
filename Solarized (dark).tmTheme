@@ -185,7 +185,7 @@
       <key>name</key>
       <string>Class name</string>
       <key>scope</key>
-      <string>entity.name.type.class, entity.name.type.instance, support.class</string>
+      <string>entity.name.type.class, entity.name.type.instance, entity.other.inherited-class, support.class</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -298,6 +298,18 @@
       <dict>
         <key>foreground</key>
         <string>#dc322f</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Inheritance separator</string>
+      <key>scope</key>
+      <string>punctuation.separator.inheritance</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#839496</string>
       </dict>
     </dict>
 
