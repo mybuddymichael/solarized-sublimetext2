@@ -314,6 +314,37 @@
     </dict>
 
 
+  <!-- Special cases
+       ============= -->
+
+    <!-- Diffs
+         ===== -->
+
+    <dict>
+      <key>name</key>
+      <string>Section range</string>
+      <key>scope</key>
+      <string>meta.diff.range</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#268bd2</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Added text</string>
+      <key>scope</key>
+      <string>markup.inserted</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#859900</string>
+      </dict>
+    </dict>
+
+
   </array>
 </dict>
 </plist>
