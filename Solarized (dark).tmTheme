@@ -345,6 +345,46 @@
     </dict>
 
 
+    <!-- Markdown
+         ======== -->
+
+    <dict>
+      <key>name</key>
+      <string>Markdown link</string>
+      <key>scope</key>
+      <string>string.other.link.title.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#6c71c4</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Markdown brackets</string>
+      <key>scope</key>
+      <string>punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#839496</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Markdown heading</string>
+      <key>scope</key>
+      <string>punctuation.definition.heading.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#cb4b16</string>
+      </dict>
+    </dict>
+
+
   </array>
 </dict>
 </plist>
