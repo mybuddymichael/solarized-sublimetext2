@@ -155,7 +155,7 @@
       <key>name</key>
       <string>Function definition keyword</string>
       <key>scope</key>
-      <string>keyword.control.def, storage.type.function</string>
+      <string>keyword.control.def, storage.type.function, storage.type.return-type.def</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
