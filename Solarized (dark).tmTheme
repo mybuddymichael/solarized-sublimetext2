@@ -317,6 +317,46 @@
   <!-- Special cases
        ============= -->
 
+    <!-- CSS
+         === -->
+
+    <dict>
+      <key>name</key>
+      <string>Property list braces</string>
+      <key>scope</key>
+      <string>punctuation.section.property-list.css</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#839496</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Property name</string>
+      <key>scope</key>
+      <string>support.type.property-name.css</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#b58900</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Pseudo-selector</string>
+      <key>scope</key>
+      <string>entity.other.attribute-name.pseudo-element.css</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#cb4b16</string>
+      </dict>
+    </dict>
+
+
     <!-- Diffs
          ===== -->
 
