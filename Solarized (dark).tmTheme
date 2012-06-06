@@ -115,6 +115,20 @@
 
     <dict>
       <key>name</key>
+      <string>Module keyword</string>
+      <key>scope</key>
+      <string>keyword.control.module</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#93a1a1</string>
+        <key>fontStyle</key>
+        <string>bold</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
       <string>Require/import keyword</string>
       <key>scope</key>
       <string>meta.require keyword.other, keyword.other.import</string>
@@ -230,6 +244,18 @@
       <dict>
         <key>foreground</key>
         <string>#268bd2</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Numbers</string>
+      <key>scope</key>
+      <string>constant.numeric</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#2aa198</string>
       </dict>
     </dict>
 
