@@ -291,13 +291,25 @@
 
     <dict>
       <key>name</key>
-      <string>Braces, brackets, and parentheses</string>
+      <string>Brackets and parentheses</string>
       <key>scope</key>
       <string>meta.brace, punctuation.section</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
         <string>#dc322f</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Curly braces</string>
+      <key>scope</key>
+      <string>meta.brace.curly</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#839496</string>
       </dict>
     </dict>
 
