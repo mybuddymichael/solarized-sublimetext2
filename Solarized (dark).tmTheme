@@ -422,6 +422,18 @@
       </dict>
     </dict>
 
+    <dict>
+      <key>name</key>
+      <string>Deleted text</string>
+      <key>scope</key>
+      <string>markup.deleted</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#dc322f</string>
+      </dict>
+    </dict>
+
 
     <!-- Markdown
          ======== -->
