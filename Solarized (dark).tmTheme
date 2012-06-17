@@ -271,6 +271,18 @@ green:     #859900
 
     <dict>
       <key>name</key>
+      <string>Constant language</string>
+      <key>scope</key>
+      <string>constant.language</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#b58900</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
       <string>Numbers</string>
       <key>scope</key>
       <string>constant.numeric</string>
@@ -326,6 +338,18 @@ green:     #859900
       <string>Instance variable</string>
       <key>scope</key>
       <string>variable.other.readwrite.instance</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#268bd2</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Symbol</string>
+      <key>scope</key>
+      <string>source.symbol, constant.other.symbol</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
