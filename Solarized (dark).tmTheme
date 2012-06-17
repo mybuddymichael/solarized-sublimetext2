@@ -153,7 +153,7 @@ green:     #859900
       <key>name</key>
       <string>Require/import keyword</string>
       <key>scope</key>
-      <string>meta.require keyword.other, keyword.other.import</string>
+      <string>meta.require keyword.other, keyword.other.import, support.function.namespace</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
