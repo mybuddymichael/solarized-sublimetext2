@@ -301,7 +301,7 @@ green:     #859900
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#b58900</string>
+        <string>#d33682</string>
       </dict>
     </dict>
 
