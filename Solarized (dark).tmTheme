@@ -255,6 +255,18 @@ green:     #859900
 
     <dict>
       <key>name</key>
+      <string>Function parameters</string>
+      <key>scope</key>
+      <string>variable.parameter source.symbol</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#839496</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
       <string>Tag name</string>
       <key>scope</key>
       <string>entity.name.tag</string>
