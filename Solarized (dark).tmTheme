@@ -123,6 +123,18 @@ green:     #859900
 
     <dict>
       <key>name</key>
+      <string>Keyword other (mark)</string>
+      <key>scope</key>
+      <string>keyword.other.mark</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#d33682</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
       <string>Class keyword</string>
       <key>scope</key>
       <string>keyword.control.class, storage.type.class</string>
