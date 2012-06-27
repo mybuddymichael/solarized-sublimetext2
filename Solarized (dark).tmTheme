@@ -247,7 +247,19 @@ green:     #859900
       <key>name</key>
       <string>Class name</string>
       <key>scope</key>
-      <string>entity.name.type.class, entity.name.type.instance, entity.other.inherited-class, support.class</string>
+      <string>entity.name.type.class, entity.name.type.instance, entity.other.inherited-class, support.class, storage.type.java source.symbol</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#b58900</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Namespace name</string>
+      <key>scope</key>
+      <string>entity.name.namespace</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
