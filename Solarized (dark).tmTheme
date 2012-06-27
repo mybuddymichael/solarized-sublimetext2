@@ -129,7 +129,9 @@ green:     #859900
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#d33682</string>
+        <string>#839496</string>
+        <key>fontStyle</key>
+        <string></string>
       </dict>
     </dict>
 
