@@ -179,6 +179,18 @@ green:     #859900
 
     <dict>
       <key>name</key>
+      <string>Namespace directives</string>
+      <key>scope</key>
+      <string>support.other.keyword.namespace, meta.function.namespace constant.string.symbole source.symbol, meta.function.namespace constant.string.symbole keyword.operator.symbole</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#2aa198</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
       <string>Control keyword</string>
       <key>scope</key>
       <string>keyword.control</string>
