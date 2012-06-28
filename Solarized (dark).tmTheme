@@ -95,7 +95,7 @@ green:     #859900
       <key>name</key>
       <string>Quotation mark</string>
       <key>scope</key>
-      <string>punctuation.definition.string</string>
+      <string>punctuation.definition.string, constant.other.quote</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -327,7 +327,7 @@ green:     #859900
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#d33682</string>
+        <string>#2aa198</string>
       </dict>
     </dict>
 
@@ -345,7 +345,19 @@ green:     #859900
 
     <dict>
       <key>name</key>
-      <string>Escape character</string>
+      <string>Map keywords</string>
+      <key>scope</key>
+      <string>meta.expression.map constant.string.symbole, meta.expression.map constant.string.symbole keyword.operator, constant.string.symbole source.symbol, constant.string.symbole keyword.operator</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#2aa198</string>
+      </dict>
+    </dict>
+
+    <dict>
+      <key>name</key>
+      <string>Escape characters</string>
       <key>scope</key>
       <string>constant.character.escape</string>
       <key>settings</key>
@@ -399,7 +411,7 @@ green:     #859900
       <key>name</key>
       <string>Symbol</string>
       <key>scope</key>
-      <string>source.symbol, constant.other.symbol</string>
+      <string>constant.other.symbol</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
