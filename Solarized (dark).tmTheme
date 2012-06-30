@@ -75,6 +75,20 @@ green:     #859900
       </dict>
     </dict>
 
+    <dict>
+      <key>name</key>
+      <string>Docstring</string>
+      <key>scope</key>
+      <string>string.docstring</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#586e75</string>
+        <key>fontStyle</key>
+        <string>italic</string>
+      </dict>
+    </dict>
+
 
     <!-- Strings
          ======= -->
