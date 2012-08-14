@@ -335,13 +335,13 @@ green:     #859900
 
     <dict>
       <key>name</key>
-      <string>Constant language</string>
+      <string>Built-in constant</string>
       <key>scope</key>
-      <string>constant.language</string>
+      <string>constant.language, meta.preprocessor</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#2aa198</string>
+        <string>#B58900</string>
       </dict>
     </dict>
 
