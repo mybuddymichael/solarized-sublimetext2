@@ -12,7 +12,7 @@ choices.
 **To install:**
 - Run `git clone git://github.com/mybuddymichael/solarized-sublimetext2.git`.
 - `cd solarized-sublimetext2`
-- Copy the .tmTheme files into your Sublime `<[data folder]>/Packages/Color
+- Copy the .tmTheme files into your Sublime `<[data folder][]>/Packages/Color
   Scheme - Default/` directory.
 
 
