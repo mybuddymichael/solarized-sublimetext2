@@ -12,10 +12,11 @@ choices.
 **To install:**
 - Run `git clone git://github.com/mybuddymichael/solarized-sublimetext2.git`.
 - `cd solarized-sublimetext2`
-- Copy the .tmTheme files into your Sublime `<[data folder][]>/Packages/Color
+- Copy the .tmTheme files into your Sublime
+  `<[data folder](http://www.sublimetext.com/docs/2/revert.html)>/Packages/Color
   Scheme - Default/` directory.
 
 
 [Solarized]: http://ethanschoonover.com/solarized
 [textmate-solarized]: https://github.com/deplorableword/textmate-solarized
-[data folder]: http://www.sublimetext.com/docs/2/revert.html
+[data folder]: 
